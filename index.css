@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    align-items: center;
+    padding: var(--spacing-3) 0;
+    float: top;
+    
+}
+li{
+    display: inline;
+}
+a{
+    display: inline;
+    color: blue;
+    float: left;
+    padding-right: 5px;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: gray;
+    float :left ;
+}
+a:hover{
+    background-color:  darkgray;
+    
+}
